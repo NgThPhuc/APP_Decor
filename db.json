@@ -1,0 +1,7 @@
+{
+    "tb_users": [
+        { "username": "admin", "passwd": "123", "fullname": "Nguyen Van A", "SDT": "123456789" },
+        { "username": "abc", "passwd": "123", "fullname": "Nguyen Van B", "SDT": "987654321"}
+    ],
+    "tb_posts": [ ]
+}

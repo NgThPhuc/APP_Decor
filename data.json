@@ -1,0 +1,188 @@
+{
+    "Items": [
+        {
+            "id": 1,
+            "category": "product",
+            "productName": "Tủ Nhỏ Trang Trí",
+            "productPrice": 100,
+            "description": "Tủ có thể dùng trang trí góc trong phòng ngủ, phòng khách, phòng làm việc,… Sản phẩm sở hữu thiết kế hiện đại, kiểu dáng thanh lịch, màu sắc trang nhã. Mang lại vẽ đẹp giản dị và nền nả cho không gian phòng ngủ. Dễ dàng di chuyển, có nhiều ngăn tiện lợi.Kiểu dáng vuông vắn, góc cạnh hiện đại vô cùng sang trọng",
+            "isOff": true,
+            "offPercentage": 10,
+            "productImage": "https://shopdecor.com.vn/wp-content/uploads/2020/06/ke-07_01.effectsResult-600x600.jpg",
+            "isAvailable": true,
+            "productImageList": [
+                "https://shopdecor.vn/wp-content/uploads/2021/06/z1838028617671_66cdfa463c5a200c3bb80551b25cb9e1-383x403.jpg",
+                "https://shopdecor.com.vn/wp-content/uploads/2020/06/ke-07_02.effectsResult-600x600.jpg",
+                "https://shopdecor.com.vn/wp-content/uploads/2020/06/ke-07_03.effectsResult-600x600.jpg"
+            ]
+        },
+        {
+            "id": 2,
+            "category": "product",
+            "productName": "Kệ gỗ Gương 03 Tầng Đẹp",
+            "productPrice": 200,
+            "description": "Gương soi là một vật dụng không thể thiếu trong mỗi gia đình và một chiếc gương tốt sẽ góp phần giúp ta dễ dàng chăm chút vẻ bề ngoài của mình hơn, để mỗi bước chân của chúng ta đều tràn đầy tự tin trên con đường mình đã chọn. Nếu cần một chiếc gương tốt, thì kệ gương 3 tầng chính là giải pháp tốt và hữu hiệu.",
+            "isOff": false,
+            "productImage": "https://shopdecor.com.vn/wp-content/uploads/2017/06/ke-go-guong-03-tang-dep-600x585.jpg",
+            "isAvailable": true,
+            "productImageList": [
+                "https://shopdecor.com.vn/wp-content/uploads/2017/06/ke-go-guong-03-tang-dep-600x585.jpg",
+                "https://shopdecor.com.vn/wp-content/uploads/2020/05/faae49d354a2dfc41a58416ed0dbff8c-600x600.jpg",
+                "https://shopdecor.com.vn/wp-content/uploads/2020/05/20a1a31fd650189d1adbd69032ff956a-600x600.jpg"
+            ]
+        },
+        {
+            "id": 3,
+            "category": "product",
+            "productName": "Kệ Trang Trí Con Nai",
+            "productPrice": 300,
+            "description": "Kệ trang trí là sản phẩm nội thất không thể thiếu đối với mọi không gian.Nó không chỉ đơn giản là vật trang trí mà nó còn giúp bạn bày biện đồ một cách  khoa học giúp bạn sắp xếp những đồ trang trí ngăn nắp làm cho không gian bạn thêm đẹp.Kệ được thiết kế theo phong cách hiện đại mới mẻ, màu sắc sắc hài hòa có thể đặt được ở nhiều không gian căn hộ, ngồi nha, cửa hàng ,…hoặc bạn có thể dung để ngăn khu vực chức năng.Kệ được làm từ gỗ thông cao cấp,qua quá trình xử lý tinh xảo bề mặt gỗ nhẵn mịn,chống ẩm móc, khả năng chiệu lực tốt.",
+            "isOff": true,
+            "offPercentage": 18,
+            "productImage": "https://shopdecor.com.vn/wp-content/uploads/2020/06/ke-06_02.effectsResult-600x600.jpg",
+            "isAvailable": true,
+            "productImageList": [
+                "https://shopdecor.com.vn/wp-content/uploads/2020/06/ke-06_02.effectsResult-600x600.jpg",
+                "https://shopdecor.com.vn/wp-content/uploads/2020/06/ke-06_01.effectsResult-600x600.jpg",
+                "https://shopdecor.com.vn/wp-content/uploads/2020/06/ke-06_03.effectsResult-600x600.jpg"
+            ]
+        },
+        {
+            "id": 4,
+            "category": "product",
+            "productName": "Kệ trang trí Chữ V",
+            "productPrice": 400,
+            "description": "Kệ trang trí là sản phẩm nội thất không thể thiếu đối với mọi không gian.Nó không chỉ đơn giản là vật trang trí mà nó còn giúp bạn bày biện đồ một cách  khoa học giúp bạn sắp xếp những đồ trang trí ngăn nắp làm cho không gian bạn thêm đẹp.Kệ được thiết kế theo phong cách hiện đại mới mẻ, màu sắc sắc hài hòa có thể đặt được ở nhiều không gian căn hộ, ngồi nha, cửa hàng ,…hoặc bạn có thể dung để ngăn khu vực chức năng.",
+            "isOff": false,
+            "productImage": "https://shopdecor.com.vn/wp-content/uploads/2020/06/ke-4_01.effectsResult-600x600.jpg",
+            "isAvailable": true,
+            "productImageList": [
+                "https://shopdecor.com.vn/wp-content/uploads/2020/06/ke-4_01.effectsResult-600x600.jpg",
+                "https://shopdecor.com.vn/wp-content/uploads/2020/06/ke-4_02.effectsResult-600x600.jpg",
+                "https://shopdecor.com.vn/wp-content/uploads/2020/06/ke-4_03.effectsResult-600x600.jpg"
+            ]
+        },
+        {
+            "id": 5,
+            "category": "product",
+            "productName": "Kệ trang trí tường",
+            "productPrice": 500,
+            "description": "Kệ trang trí là sản phẩm nội thất không thể thiếu đối với mọi không gian.Nó không chỉ đơn giản là vật trang trí mà nó còn giúp bạn bày biện đồ một cách  khoa học giúp bạn sắp xếp những đồ trang trí ngăn nắp làm cho không gian bạn thêm đẹp.Kệ được thiết kế theo phong cách hiện đại mới mẻ, màu sắc sắc hài hòa có thể đặt được ở nhiều không gian căn hộ, ngồi nha, cửa hàng ,…hoặc bạn có thể dung để ngăn khu vực chức năng.",
+            "isOff": false,
+            "productImage": "https://shopdecor.com.vn/wp-content/uploads/2020/06/ke-1_02.effectsResult-600x600.jpg",
+            "isAvailable": false,
+            "productImageList": [
+                "https://shopdecor.com.vn/wp-content/uploads/2020/06/ke-1_02.effectsResult-600x600.jpg",
+                "https://shopdecor.com.vn/wp-content/uploads/2020/06/81657c3b4f75b52bec64-600x585.jpg",
+                "https://shopdecor.com.vn/wp-content/uploads/2020/06/ke-1_01.effectsResult-600x600.jpg"
+            ]
+        },
+        {
+            "id": 6,
+            "category": "product",
+            "productName": "Kệ trang trí Chữ A",
+            "productPrice": 600,
+            "description": "Kệ trưng bày hình chữ A là thiết kế đơn giản kiểu bậc thang chắc chắn, màu sắc trang nhã , phù hợp với nhiều sản phẩm hàng hóa. được sản xuất từ gỗ công nghiệp chất lượng cao. Chất liệu gỗ đã qua xử lý chống mối mọt, ẩm mốc, cong vênh, có khả năng chịu lực tốt.",
+            "isOff": false,
+            "productImage": "https://shopdecor.com.vn/wp-content/uploads/2020/06/ke-03_01.effectsResult-600x600.jpg",
+            "isAvailable": true,
+            "productImageList": [
+                "https://shopdecor.com.vn/wp-content/uploads/2020/06/ke-03_01.effectsResult-600x600.jpg",
+                "https://shopdecor.com.vn/wp-content/uploads/2020/06/ke-03_02.effectsResult-600x600.jpg",
+                "https://shopdecor.com.vn/wp-content/uploads/2020/06/ke-03_03.effectsResult-600x600.jpg"
+            ]
+        },
+        {
+            "id": 7,
+            "category": "product",
+            "productName": "Tủ Nhỏ Trang Trí",
+            "productPrice": 100,
+            "description": "Tủ có thể dùng trang trí góc trong phòng ngủ, phòng khách, phòng làm việc,… Sản phẩm sở hữu thiết kế hiện đại, kiểu dáng thanh lịch, màu sắc trang nhã. Mang lại vẽ đẹp giản dị và nền nả cho không gian phòng ngủ. Dễ dàng di chuyển, có nhiều ngăn tiện lợi.Kiểu dáng vuông vắn, góc cạnh hiện đại vô cùng sang trọng",
+            "isOff": true,
+            "offPercentage": 10,
+            "productImage": "https://shopdecor.com.vn/wp-content/uploads/2020/06/ke-07_01.effectsResult-600x600.jpg",
+            "isAvailable": true,
+            "productImageList": [
+                "https://shopdecor.vn/wp-content/uploads/2021/06/z1838028617671_66cdfa463c5a200c3bb80551b25cb9e1-383x403.jpg",
+                "https://shopdecor.com.vn/wp-content/uploads/2020/06/ke-07_02.effectsResult-600x600.jpg",
+                "https://shopdecor.com.vn/wp-content/uploads/2020/06/ke-07_03.effectsResult-600x600.jpg"
+            ]
+        },
+        {
+            "id": 8,
+            "category": "product",
+            "productName": "Kệ gỗ Gương 03 Tầng Đẹp",
+            "productPrice": 200,
+            "description": "Gương soi là một vật dụng không thể thiếu trong mỗi gia đình và một chiếc gương tốt sẽ góp phần giúp ta dễ dàng chăm chút vẻ bề ngoài của mình hơn, để mỗi bước chân của chúng ta đều tràn đầy tự tin trên con đường mình đã chọn. Nếu cần một chiếc gương tốt, thì kệ gương 3 tầng chính là giải pháp tốt và hữu hiệu.",
+            "isOff": false,
+            "productImage": "https://shopdecor.com.vn/wp-content/uploads/2017/06/ke-go-guong-03-tang-dep-600x585.jpg",
+            "isAvailable": true,
+            "productImageList": [
+                "https://shopdecor.com.vn/wp-content/uploads/2017/06/ke-go-guong-03-tang-dep-600x585.jpg",
+                "https://shopdecor.com.vn/wp-content/uploads/2020/05/faae49d354a2dfc41a58416ed0dbff8c-600x600.jpg",
+                "https://shopdecor.com.vn/wp-content/uploads/2020/05/20a1a31fd650189d1adbd69032ff956a-600x600.jpg"
+            ]
+        },
+        {
+            "id": 9,
+            "category": "product",
+            "productName": "Kệ Trang Trí Con Nai",
+            "productPrice": 300,
+            "description": "Kệ trang trí là sản phẩm nội thất không thể thiếu đối với mọi không gian.Nó không chỉ đơn giản là vật trang trí mà nó còn giúp bạn bày biện đồ một cách  khoa học giúp bạn sắp xếp những đồ trang trí ngăn nắp làm cho không gian bạn thêm đẹp.Kệ được thiết kế theo phong cách hiện đại mới mẻ, màu sắc sắc hài hòa có thể đặt được ở nhiều không gian căn hộ, ngồi nha, cửa hàng ,…hoặc bạn có thể dung để ngăn khu vực chức năng.Kệ được làm từ gỗ thông cao cấp,qua quá trình xử lý tinh xảo bề mặt gỗ nhẵn mịn,chống ẩm móc, khả năng chiệu lực tốt.",
+            "isOff": true,
+            "offPercentage": 18,
+            "productImage": "https://shopdecor.com.vn/wp-content/uploads/2020/06/ke-06_02.effectsResult-600x600.jpg",
+            "isAvailable": true,
+            "productImageList": [
+                "https://shopdecor.com.vn/wp-content/uploads/2020/06/ke-06_02.effectsResult-600x600.jpg",
+                "https://shopdecor.com.vn/wp-content/uploads/2020/06/ke-06_01.effectsResult-600x600.jpg",
+                "https://shopdecor.com.vn/wp-content/uploads/2020/06/ke-06_03.effectsResult-600x600.jpg"
+            ]
+        },
+        {
+            "id": 10,
+            "category": "product",
+            "productName": "Kệ trang trí Chữ V",
+            "productPrice": 400,
+            "description": "Kệ trang trí là sản phẩm nội thất không thể thiếu đối với mọi không gian.Nó không chỉ đơn giản là vật trang trí mà nó còn giúp bạn bày biện đồ một cách  khoa học giúp bạn sắp xếp những đồ trang trí ngăn nắp làm cho không gian bạn thêm đẹp.Kệ được thiết kế theo phong cách hiện đại mới mẻ, màu sắc sắc hài hòa có thể đặt được ở nhiều không gian căn hộ, ngồi nha, cửa hàng ,…hoặc bạn có thể dung để ngăn khu vực chức năng.",
+            "isOff": false,
+            "productImage": "https://shopdecor.com.vn/wp-content/uploads/2020/06/ke-4_01.effectsResult-600x600.jpg",
+            "isAvailable": true,
+            "productImageList": [
+                "https://shopdecor.com.vn/wp-content/uploads/2020/06/ke-4_01.effectsResult-600x600.jpg",
+                "https://shopdecor.com.vn/wp-content/uploads/2020/06/ke-4_02.effectsResult-600x600.jpg",
+                "https://shopdecor.com.vn/wp-content/uploads/2020/06/ke-4_03.effectsResult-600x600.jpg"
+            ]
+        },
+        {
+            "id": 11,
+            "category": "product",
+            "productName": "Kệ trang trí tường",
+            "productPrice": 500,
+            "description": "Kệ trang trí là sản phẩm nội thất không thể thiếu đối với mọi không gian.Nó không chỉ đơn giản là vật trang trí mà nó còn giúp bạn bày biện đồ một cách  khoa học giúp bạn sắp xếp những đồ trang trí ngăn nắp làm cho không gian bạn thêm đẹp.Kệ được thiết kế theo phong cách hiện đại mới mẻ, màu sắc sắc hài hòa có thể đặt được ở nhiều không gian căn hộ, ngồi nha, cửa hàng ,…hoặc bạn có thể dung để ngăn khu vực chức năng.",
+            "isOff": false,
+            "productImage": "https://shopdecor.com.vn/wp-content/uploads/2020/06/ke-1_02.effectsResult-600x600.jpg",
+            "isAvailable": false,
+            "productImageList": [
+                "https://shopdecor.com.vn/wp-content/uploads/2020/06/ke-1_02.effectsResult-600x600.jpg",
+                "https://shopdecor.com.vn/wp-content/uploads/2020/06/81657c3b4f75b52bec64-600x585.jpg",
+                "https://shopdecor.com.vn/wp-content/uploads/2020/06/ke-1_01.effectsResult-600x600.jpg"
+            ]
+        },
+        {
+            "id": 12,
+            "category": "product",
+            "productName": "Kệ trang trí Chữ A",
+            "productPrice": 600,
+            "description": "Kệ trưng bày hình chữ A là thiết kế đơn giản kiểu bậc thang chắc chắn, màu sắc trang nhã , phù hợp với nhiều sản phẩm hàng hóa. được sản xuất từ gỗ công nghiệp chất lượng cao. Chất liệu gỗ đã qua xử lý chống mối mọt, ẩm mốc, cong vênh, có khả năng chịu lực tốt.",
+            "isOff": false,
+            "productImage": "https://shopdecor.com.vn/wp-content/uploads/2020/06/ke-03_01.effectsResult-600x600.jpg",
+            "isAvailable": true,
+            "productImageList": [
+                "https://shopdecor.com.vn/wp-content/uploads/2020/06/ke-03_01.effectsResult-600x600.jpg",
+                "https://shopdecor.com.vn/wp-content/uploads/2020/06/ke-03_02.effectsResult-600x600.jpg",
+                "https://shopdecor.com.vn/wp-content/uploads/2020/06/ke-03_03.effectsResult-600x600.jpg"
+            ]
+        }
+    ]
+}
